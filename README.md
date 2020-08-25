@@ -11,3 +11,12 @@ Voici les quelques règles à respecter afin de que nous puissions traiter au pl
 * Si votre problème concerne votre abonnement ou son renouvellement, merci de passer par l'interface de support utilisateur (http://www.nextinpact.com/a-propos.htm#nouscontacter_section)
 
 Merci et bonne chasse aux bugs ;)
+
+# Navigateurs Supportés
+
+* Les deux dernières versions de l'ensemble des navigateurs basés sur Chromium (Chrome, Edge, Opera, Vivaldi etc.)
+* Les deux dernières version de Firefox
+* La dernière version de Firefox ESR
+* Les deux dernières version de Safari (Mac et iOs)
+
+
