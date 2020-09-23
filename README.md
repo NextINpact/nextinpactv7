@@ -8,7 +8,7 @@ Voici les quelques règles à respecter afin de que nous puissions traiter au pl
 * Essayez de reproduire plusieurs fois votre problème avant d'entreprendre un rapport
 * Indiquez, si possible, les étapes pour reproduire le problème, cela nous permettra de le résoudre plus rapidement
 * Lors de la création de votre ticket, n'oubliez pas de mentionner votre environnement (http://supportdetails.net/ pour générer un rapport automatisé)
-* Si votre problème concerne votre abonnement ou son renouvellement, merci de passer par l'interface de support utilisateur (http://www.nextinpact.com/a-propos.htm#nouscontacter_section)
+* Si votre problème concerne votre abonnement ou son renouvellement, merci de passer par l'interface de support utilisateur (https://www.nextinpact.com/contact)
 
 Merci et bonne chasse aux bugs ;)
 
