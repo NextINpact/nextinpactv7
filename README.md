@@ -15,8 +15,8 @@ Merci et bonne chasse aux bugs ;)
 # Navigateurs Supportés
 
 * Les deux dernières versions de l'ensemble des navigateurs basés sur Chromium (Chrome, Edge, Opera, Vivaldi etc.)
-* Les deux dernières version de Firefox
-* La dernière version de Firefox ESR
+* Les deux dernières version de Firefox Stable
+* La dernière version de Firefox ESR ainsi que l'avant dernière pendant la phase de qualification ESR (https://support.mozilla.org/en-US/kb/firefox-esr-release-cycle).
 * Les deux dernières version de Safari (Mac et iOs)
 
 
